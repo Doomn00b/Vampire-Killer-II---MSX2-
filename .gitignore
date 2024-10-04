@@ -6,6 +6,7 @@ testcases
 *.xcf
 *.map
 *.noi
+*.psd
 
 /engine/doc/Natural Docs
 /engine/doc/NaturalDocs_Config/Working Data
@@ -65,7 +66,8 @@ testcases
 /tools/RuMSX
 /tools/MSXtk/proj/*.user
 
+/Packaging_VK2/Vampire-Killer2_msx2p_cover-box2.psd
 /Packaging_VK2/Vampire-Killer2_msx2p_cover-box.psd
-/Packaging_VK2/psDC59.tmp 
-/ref-VK2/illustrations-AD2/Vampire-Killer2_msx2p_cover-box-remake.psd
-/ref-VK2/illustrations-AD2/Vampire-Killer2_msx2p_cover-box2.psd
+/Packaging_VK2/*.tmp 
+/Packaging_VK2/Vampire-Killer2_msx2p_cover-box-remake.psd
+/Packaging_VK2/Vampire-Killer2_msx2p_cover-box-remake1.psd
